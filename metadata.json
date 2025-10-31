@@ -1,0 +1,5 @@
+{
+  "name": "AI Pinboard",
+  "description": "A web application that combines the visual discovery of Pinterest with the creative power of AI. Users can generate unique images from text prompts, explore an endless feed of AI-generated art, and save their favorite creations to a personal pinboard.",
+  "requestFramePermissions": []
+}
